@@ -5,6 +5,8 @@
 Semantic image segmentation is the task of assigning a class label to each pixel in an image. This project implements a U-Net architecture to segment and classify regions within an image, such as identifying "Car" or "Person" objects through pixel-wise classification.
 
 Originally developed as part of the Deep Learning Specialization by DeepLearning.AI, this version extends the assignment by using a larger dataset sourced from Kaggle and includes minor modifications for learning and experimentation.
+
+
 🗂️ Dataset
 
     Source: Kaggle
@@ -26,6 +28,7 @@ Originally developed as part of the Deep Learning Specialization by DeepLearning
 🧠 Model Architecture
 
 The model uses the U-Net architecture, which is particularly well-suited for biomedical and semantic segmentation tasks. It consists of an encoder-decoder structure with skip connections, enabling precise localization.
+
 🔧 Modifications Made
 
     Replaced the original dataset with a larger, more diverse one from Kaggle.
@@ -44,8 +47,7 @@ The model uses the U-Net architecture, which is particularly well-suited for bio
 
     Clone the repository:
 
-git clone https://github.com/your-username/semantic-segmentation-unet.git
-cd semantic-segmentation-unet
+git clone https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net
 
 Install dependencies:
 
@@ -60,6 +62,8 @@ Open the Jupyter Notebook:
 📷 Sample Output
 
 (Optional: Add images showing original images + predicted masks)
+
+
 🧾 Credits
 
     DeepLearning.AI – Deep Learning Specialization
