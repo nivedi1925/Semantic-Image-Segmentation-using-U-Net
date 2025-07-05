@@ -45,13 +45,13 @@ The model uses the U-Net architecture, which is particularly well-suited for bio
 
 ▶️ How to Run
 
-    Clone the repository:
+Clone the repository:
 
-git clone https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net
+    git clone https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net
 
 Install dependencies:
 
-pip install -r requirements.txt
+    pip install -r requirements.txt
 
 Open the Jupyter Notebook:
 
