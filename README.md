@@ -1,4 +1,4 @@
-# Semantic-Image-Segmentation-using-U-Net
+# Semantic Image Segmentation using U Net
 
 📌 Project Overview
 
