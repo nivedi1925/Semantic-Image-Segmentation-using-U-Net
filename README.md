@@ -28,7 +28,7 @@ Originally developed as part of the Deep Learning Specialization by DeepLearning
 🧠 Model Architecture
 
 The model uses the U-Net architecture, which is particularly well-suited for biomedical and semantic segmentation tasks. It consists of an encoder-decoder structure with skip connections, enabling precise localization.below diagram shows the architecture of U-Net model.
-[U-Net architecture](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/blob/main/images/unet_architecture.png)
+![U-Net architecture](https://github.com/nivedi1925/Semantic-Image-Segmentation-using-U-Net/blob/main/images/unet_architecture.png)
 
 🔧 Modifications Made
 
@@ -61,10 +61,9 @@ Open the Jupyter Notebook:
 
 📷 Sample Output
 
-[images/output_28_10.png](images/output_28_10.png)
-[]()
-[]()
-[]()
+![images/output_28_10.png](images/output_28_10.png)
+![images/output_28_12.png](images/output_28_12.png)
+![images/output_28_8.png](images/output_28_8.png)
 
 
 🧾 Credits
